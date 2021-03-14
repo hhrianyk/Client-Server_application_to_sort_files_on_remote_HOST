@@ -1,9 +1,0 @@
-C:\Users\дом\source\repos\Life 25.07\Life 25.07\bin\Debug\Life 25.07.exe.config
-C:\Users\дом\source\repos\Life 25.07\Life 25.07\bin\Debug\Life 25.07.exe
-C:\Users\дом\source\repos\Life 25.07\Life 25.07\bin\Debug\Life 25.07.pdb
-C:\Users\дом\source\repos\Life 25.07\Life 25.07\obj\Debug\Life 25.07.csprojAssemblyReference.cache
-C:\Users\дом\source\repos\Life 25.07\Life 25.07\obj\Debug\Life_25._07.Form1.resources
-C:\Users\дом\source\repos\Life 25.07\Life 25.07\obj\Debug\Life_25._07.Properties.Resources.resources
-C:\Users\дом\source\repos\Life 25.07\Life 25.07\obj\Debug\Life 25.07.csproj.GenerateResource.cache
-C:\Users\дом\source\repos\Life 25.07\Life 25.07\obj\Debug\Life 25.07.exe
-C:\Users\дом\source\repos\Life 25.07\Life 25.07\obj\Debug\Life 25.07.pdb
